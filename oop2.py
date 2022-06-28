@@ -1,8 +1,7 @@
+"""
+This program is to implement a plan with the Cartesian coordinate system
+"""
 import math
-
-"""
-This program is to implement a plann with the Cartesian coordinate system
-"""
 class Point:
     def __init__(self, x=0.0, y=0.0):
         self.__x = x

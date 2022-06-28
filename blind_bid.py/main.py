@@ -1,7 +1,8 @@
+"""
+This program is to write a Secret Auction Program
+"""
 import os
 import art
-#HINT: You can call clear() to clear the output in the console.
-print(art.logo)
 def clear_console():
     os.system('clear')
 #def clear_console(): return os.system('clear')

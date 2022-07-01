@@ -4,6 +4,14 @@ the output histogram will be sorted based on the characters' frequency (the bigg
 the histogram should be sent to a file with the same name as the input one, but with the suffix '.hist' (it should be concatenated to the original name)
 one text file has been provided: read_file/source_file.txt
 
+lambda funtion is used to sort the dictionary based on the value.
+sorted(dict1.items(), key = lambda x: x[1])
+
+sort(key,reverse),key serves as a key for the sort comparison
+reverse is True represent the list will be sorted in descending order.
+
+sorted() function will return the sorted list rather than change the original list.
+while sort() function will change the original list.
 
 """
 

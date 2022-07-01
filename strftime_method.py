@@ -1,6 +1,9 @@
 """
 This program is to represent the different format of datetime
 by using strftime method.
+datetime : https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes
+time: https://docs.python.org/3/library/time.html#time.strftime
+
 """
 
 from datetime import datetime
